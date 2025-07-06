@@ -69,6 +69,7 @@ nav:
       - Phishing Template: General Notes/Notes/Templates/phishing-template.md
       - Threat intel Types: General Notes/Threat Intel/ti.md
     - Links:
+      - Learn: General Notes/Links/Tools/learn.md
       - Tools: General Notes/Links/Tools/tools.md
       - Blogs: General Notes/Links/Blogs/blogs.md
       - Archives: General Notes/Links/Tools/archive.md
@@ -96,11 +97,14 @@ nav:
     - ADS Framework:
       - Medium - ADS Framework: https://blog.palantir.com/alerting-and-detection-strategy-framework-52dc33722df2
       - Github - ADS: https://github.com/palantir/alerting-detection-strategy-framework?tab=readme-ov-file
+
   - Digital Forensics: Digital Forensics/forensics.md
+
   - Programming:
     - Links: Programming/code-links.md
     - Python: Programming/python.md
     - C++: Programming/c++.md
+
   - About: about.md
 
 copyright: Copyright &copy; 2025 reizu

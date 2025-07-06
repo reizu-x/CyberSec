@@ -1,5 +1,7 @@
 # Threat Hunting Hypothesis[^1]
 
+[^1]: The whole content was taken from here: [Youtube](https://www.youtube.com/watch?v=N8nde4oPZ7U)
+
 ## Threat Hunting
 
 - Threat hunting is Proactive! 
@@ -40,5 +42,3 @@
 - Common data transformations
     - Basic String/Regex Matching
     - Statistical Analysis
-
-[^1]: The whole content was taken from here: [Youtube](https://www.youtube.com/watch?v=N8nde4oPZ7U)
