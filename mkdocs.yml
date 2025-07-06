@@ -1,0 +1,120 @@
+site_name: Cyber Security Notes
+site_url: https://notes.mirei.se
+site_author: reizu
+repo_name: reizu-x/CyberSec
+repo_url: https://github.com/reizu-x/CyberSec
+
+theme:
+  name: material
+  font:
+    text: Merriweather Sans
+    code: Coda Caption
+  icon:
+    logo: material/notebook-plus
+    annotation: material/arrow-right-circle-outline
+  features:
+    - navigation.footer
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Light Mode
+      primary: amber
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Dark Mode
+      primary: blue
+      accent: deep purple
+
+markdown_extensions:
+  - attr_list
+  - def_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - footnotes
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format 
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Home: index.md
+  - General Notes:
+    - Notes:
+      - Cheat Sheets:
+        - SANS Cheat Sheet: https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
+        - PowerShell: General Notes/Notes/Cheat Sheets/powershell.md
+        - PowerShell Hex: General Notes/Notes/Cheat Sheets/powershell-hex.md
+      - Phishing Template: General Notes/Notes/Templates/phishing-template.md
+      - Threat intel Types: General Notes/Threat Intel/ti.md
+    - Links:
+      - Tools: General Notes/Links/Tools/tools.md
+      - Blogs: General Notes/Links/Blogs/blogs.md
+      - Archives: General Notes/Links/Tools/archive.md
+    - SIEM: General Notes/Notes/siem.md
+
+  - Blue Team:
+    - Notes: Blue Team/notes.md
+    - Links: Blue Team/bt-tools.md
+    - Threat Hunting:
+      - Links: Blue Team/Threat Hunting/links.md
+      - Methodology:
+        - Hypothesis: Blue Team/Threat Hunting/hypothesis.md
+
+  - Red Team:
+    - Notes: Red Team/notes.md
+    - Links: Red Team/rt-tools.md
+
+  - Detection Engineering:
+    - Notes: Detection Engineering/notes.md
+    - Process: Detection Engineering/process.md
+    - Tools: Detection Engineering/de-tools.md
+    - Detections:
+      - Detect: Detection Engineering/detection.md
+      - Tips: Detection Engineering/tips.md
+    - ADS Framework:
+      - Medium - ADS Framework: https://blog.palantir.com/alerting-and-detection-strategy-framework-52dc33722df2
+      - Github - ADS: https://github.com/palantir/alerting-detection-strategy-framework?tab=readme-ov-file
+  - Digital Forensics: Digital Forensics/forensics.md
+  - Programming:
+    - Links: Programming/code-links.md
+    - Python: Programming/python.md
+    - C++: Programming/c++.md
+  - About: about.md
+
+copyright: Copyright &copy; 2025 reizu
+extra:
+  consent:
+    title: Cookie consent
+    description: We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  social:
+    - icon: simple/tryhackme
+      link: https://tryhackme.com/p/reizu
+    - icon: fontawesome/brands/x-twitter
+      link: https://github.com/reizu-x
+    - icon: fontawesome/brands/github
+      link: https://x.com/reizu_xo
