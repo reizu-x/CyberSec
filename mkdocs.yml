@@ -15,7 +15,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.expand
     - navigation.footer
     - toc.integrate
   palette:
@@ -63,9 +62,8 @@ markdown_extensions:
       custom_checkbox: true
 
 nav:
-  - Home: index.md
-  - General:
-    - Notes:
+  - Home:
+    - General Notes:
       - Cheat Sheets:
         - PowerShell: General Notes/Notes/Cheat Sheets/powershell.md
         - PowerShell Hex: General Notes/Notes/Cheat Sheets/powershell-hex.md
