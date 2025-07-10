@@ -13,14 +13,18 @@ theme:
     logo: material/notebook-plus
     annotation: material/arrow-right-circle-outline
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
     - navigation.footer
+    - toc.integrate
   palette:
     # Dark Mode
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Light Mode
-      primary: amber
+      primary: black
       accent: deep purple
 
     # Light Mode
@@ -28,7 +32,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Dark Mode
-      primary: blue
+      primary: black
       accent: deep purple
 
 markdown_extensions:
@@ -60,10 +64,9 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - General Notes:
+  - General:
     - Notes:
       - Cheat Sheets:
-        - SANS Cheat Sheet: https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
         - PowerShell: General Notes/Notes/Cheat Sheets/powershell.md
         - PowerShell Hex: General Notes/Notes/Cheat Sheets/powershell-hex.md
       - Phishing Template: General Notes/Notes/Templates/phishing-template.md
