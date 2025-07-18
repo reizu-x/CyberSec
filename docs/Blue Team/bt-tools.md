@@ -17,7 +17,7 @@
 - [Darklist](https://www.darklist.de/)
 - [DNS Dumpster](https://dnsdumpster.com/)
 - [GreyNoise](https://viz.greynoise.io/)
-- [Site24x7] (https://www.site24x7.com/tools/?src=head-n&pg=home) <!-- Tool Kit -->
+- [Site24x7](https://www.site24x7.com/tools/?src=head-n&pg=home) <!-- Tool Kit -->
 
 ## Spam Checker
 
