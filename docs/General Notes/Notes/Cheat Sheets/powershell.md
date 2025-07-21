@@ -368,3 +368,4 @@ PS C:\> New-NetFirewallRule -Action Allow -DisplayName LetMeIn -RemoteAddress 10
 - [:octicons-arrow-right-24: Go to the SANS PDF](https://wiki.sans.blue/Tools/pdfs/PowerShell.pdf)
 
 </div>
+s

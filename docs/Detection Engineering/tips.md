@@ -4,9 +4,9 @@
 
 : Questions to ask when setting up a detection.
 
-* What are we trying to protect?
-* What are the threat against that?
-    * What are our exposure?
+- What are we trying to protect?
+- What are the threat against that?
+    - What are our exposure?
     - What are our risks?
 - What are our mitigation options?
     - Isolation Area?
@@ -17,7 +17,7 @@
 
 ## Tips
 
-* Detections on the entire chain over Detections that covers MITRE
+- Detections on the entire chain over Detections that covers MITRE
     - Start from the last part of the Kill Chain is more logical, from actions on objectives to Initial Access.
         - Start on the things you don't want to happen, then continue upwards.
 
@@ -40,17 +40,17 @@
 3. Research the threat in your environment and externally
 4. Build the logic & test your hypothesis
 5. Evaluate next steps (documentation, peer review, etc.)
-    * What spurs detection writing?
-        * Threat Hunting
-        * Security Incident
-        * New Asset or Regulation
+    - What spurs detection writing?
+        - Threat Hunting
+        - Security Incident
+        - New Asset or Regulation
 6. Testing your detection
-    * Run your newly written detection in a testing environment
-    * Does it detect the behavior you wanted it to?
-    * Are there any false positives?
-    * What can be improved?
+    - Run your newly written detection in a testing environment
+    - Does it detect the behavior you wanted it to?
+    - Are there any false positives?
+    - What can be improved?
 7. Evaluate the Detection
-    * If you believe the detection should be in production, document all your reaserch and testing!
+    - If you believe the detection should be in production, document all your reaserch and testing!
 8. Then...
     1. Pass it on for peer feedback from your teammates.
     2. Write a playbook with the threat scenario and specific actions that can be taken to investigate this alert.

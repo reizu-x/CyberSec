@@ -19,6 +19,7 @@ work:
         tryhackme: https://tryhackme.com/p/reizu
     summary:
         - reizu is a Cyber Security Professional.
+        - Work mostly within Blue Teaming and still building his knowledge on Red Teaming activities.
         - Worked in the cysec workspace for 3 years now.
         - Started the notes for myself.
 ```

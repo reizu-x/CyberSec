@@ -17,7 +17,7 @@
 
 ### SQL Injection Characters
 
-| Character    | Normal Character | URL-Encoded Character |   
+| Character    | Normal Character | URL-Encoded Character |
 | ------------ | ---------------- | --------------------- |
 | Single Quote | '                | %27                   |
 | Double Quote | "                | %22                   |

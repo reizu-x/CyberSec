@@ -1,6 +1,6 @@
 # Website for Learning
 
-- [Roadmap](https://roadmap.sh/cyber-security) 
+- [Roadmap](https://roadmap.sh/cyber-security)
 
 ## Linux
 

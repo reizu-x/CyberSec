@@ -4,7 +4,7 @@
 
 ## Threat Hunting
 
-- Threat hunting is Proactive! 
+- Threat hunting is Proactive!
     - Start with Hypothesis, NOT ALERTS!
 
 ### Questions to ask
