@@ -4,6 +4,7 @@
 
 - [Detection.fyi](https://detection.fyi/)
 - [Detection.ai](https://detections.ai/)
+- [Rulehound](https://rulehound.com/rules)
 
 ## Sigma
 
