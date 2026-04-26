@@ -107,6 +107,10 @@ nav:
     - Python: Programming/python.md
     - C++: Programming/c++.md
 
+  - Writeups:
+    - CyberDefenders:
+      - PsExec: Cyberdefenders/PsExec Hunt Lab.md
+
   - About: about.md
 
 copyright: Copyright &copy; 2025 reizu
