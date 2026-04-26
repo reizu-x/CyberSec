@@ -108,8 +108,8 @@ nav:
     - C++: Programming/c++.md
 
   - Writeups:
-    - PsExec: CyberDefenders/PsExecHuntLab.md
-    - Red Stealer: CyberDefenders/RedStealerLab.md
+    - PsExec: Writeups/PsExecHuntLab.md
+    - Red Stealer: Writeups/RedStealerLab.md
 
   - About: about.md
 
