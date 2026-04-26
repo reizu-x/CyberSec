@@ -110,6 +110,10 @@ nav:
   - Writeups:
     - CyberDefenders:
       - PsExec: CyberDefenders/PsExecHuntLab.md
+      - Red Stealer: CyberDefenders/RedStealerLab.md
+    - TryHackMe:
+      - PsExec: CyberDefenders/PsExecHuntLab.md
+      - Red Stealer: CyberDefenders/RedStealerLab.md
 
   - About: about.md
 
