@@ -108,7 +108,8 @@ nav:
     - C++: Programming/c++.md
 
   - Writeups:
-    - CyberDefenders: CyberDefenders/PsExec Hunt Lab.md
+    - CyberDefenders:
+      - PsExec: CyberDefenders/PsExecHuntLab.md
 
   - About: about.md
 
