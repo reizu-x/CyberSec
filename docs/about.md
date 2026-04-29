@@ -14,12 +14,12 @@ work:
         - More Certifications.
         - Enriching this Notes. 
     socials:
-        x: [Link](https://x.com/reizu_xo)
+        x: https://x.com/reizu_xo
     Training Platforms: 
-        github: [Link](https://github.com/reizu-x)
-        tryhackme: [Link](https://tryhackme.com/p/reizu)
-        cyberdefenders: [Link](https://cyberdefenders.org/p/reizu_x/)
-        hackthebox: [Link](https://app.hackthebox.com/users/2096435?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
+        github: https://github.com/reizu-x
+        tryhackme: https://tryhackme.com/p/reizu
+        cyberdefenders: https://cyberdefenders.org/p/reizu_x/
+        hackthebox: https://app.hackthebox.com/users/2096435?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs
     summary:
         - I am a Cyber Security Professional.
         - Work mostly within Blue Teaming and still building his knowledge on Red Teaming activities.
