@@ -93,6 +93,7 @@ nav:
     - Notes: Detection Engineering/notes.md
     - Process: Detection Engineering/process.md
     - Tools: Detection Engineering/de-tools.md
+    - Logs: Detection Engineering/logs.md
     - Detections:
       - Detect: Detection Engineering/detection.md
       - Tips: Detection Engineering/tips.md
