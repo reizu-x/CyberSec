@@ -50,17 +50,17 @@ Your task is to investigate this executable by analyzing its hash. The goal is t
 
 **Explanation**: 
 
-**A**: 
+**A**: detect_Redline_Stealer
 
 **Q8**: Understanding which malware families are targeting the organization helps in strategic security planning for the future and prioritizing resources based on the threat. Can you provide the different malware alias associated with the malicious IP address according to ThreatFox?
 
 **Explanation**: 
 
-**A**:
+**A**: RECORDSTEALER
 
 **Q9**: By identifying the malware's imported DLLs, we can configure security tools to monitor for the loading or unusual usage of these specific DLLs. Can you provide the DLL utilized by the malware for privilege escalation?
 
 **Explanation**: 
 
-**A**: 
+**A**: ADVAPI32.dll
 
