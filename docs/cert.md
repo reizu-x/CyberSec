@@ -26,5 +26,9 @@
 ## Udemy Check List
 
 - [x] Complete Ethical Hacking Bootcamp
+- [ ] SOC Analyst Level 1 & 2 Masterclass
+- [ ] Solo Purple Teaming
 - [ ] Web Security & Bug Bounty: Learn Penetration Testing
 - [ ] 100 Days of Code: The Complete Python Pro Bootcamp
+- [ ] Bash Mastery: The Complete Guide to Bash Shell Scripting
+- [ ] ComTIA Security+ (SY0-701) Complete Course & Practice Exam
