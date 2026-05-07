@@ -15,37 +15,37 @@ As the threat intelligence analyst, it's your responsibility to examine this pos
 
 **Explanation**: 
 
-**A**: 
+**A**: 2
 
 **Q2**: Determining the age of the malware can help assess the extent of the compromise and track the evolution of malware families and variants. What's the UTC creation time of the .msi malware?
 
 **Explanation**: 
 
-**A**: Sales-PC 
+**A**: 2023-03-13 06:33
 
 **Q3**: Executable files (.exe) are frequently used as primary or secondary malware payloads, while dynamic link libraries (.dll) often load malicious code or enhance malware functionality. Analyzing files deposited by the Microsoft Software Installer (.msi) is crucial for identifying malicious files and investigating their full potential. Which malicious DLLs were dropped by the .msi file?
 
 **Explanation**: 
 
-**A**: 
+**A**: ffmpeg.dll, d3dcompiler_47.dll
 
 **Q4**: Recognizing the persistence techniques used in this incident is essential for current mitigation strategies and future defense improvements. What is the MITRE Technique ID employed by the .msi files to load the malicious DLL?
 
 **Explanation**: 
 
-**A**: psexesvc.exe
+**A**: T1574
 
 **Q5**: Recognizing the malware type (threat category) is essential to your investigation, as it can offer valuable insight into the possible malicious actions you'll be examining. What is the threat category of the two malicious DLLs?
 
 **Explanation**: 
 
-**A**: 
+**A**: trojan
 
 **Q6**: As a threat intelligence analyst conducting dynamic analysis, it's vital to understand how malware can evade detection in virtualized environments or analysis systems. This knowledge will help you effectively mitigate or address these evasive tactics. What is the MITRE ID for the virtualization/sandbox evasion techniques used by the two malicious DLLs?
 
 **Explanation**: 
 
-**A**: 
+**A**: T1497
 
 **Q7**: When conducting malware analysis and reverse engineering, understanding anti-analysis techniques is vital to avoid wasting time. Which hypervisor is targeted by the anti-analysis techniques in the ffmpeg.dll file?
 
