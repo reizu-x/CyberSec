@@ -51,19 +51,19 @@ As the threat intelligence analyst, it's your responsibility to examine this pos
 
 **Explanation**: 
 
-**A**: 
+**A**: vmware
 
 **Q8**: Identifying the cryptographic method used in malware is crucial for understanding the techniques employed to bypass defense mechanisms and execute its functions fully. What encryption algorithm is used by the ffmpeg.dll file?
 
 **Explanation**: 
 
-**A**: 
+**A**: RC4
 
 **Q9**: As an analyst, you've recognized some TTPs involved in the incident, but identifying the APT group responsible will help you search for their usual TTPs and uncover other potential malicious activities. Which group is responsible for this attack?
 
 **Explanation**: 
 
-**A**: 
+**A**: Lazarus
 
 
 
